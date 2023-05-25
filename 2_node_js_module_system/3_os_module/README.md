@@ -70,11 +70,11 @@ Output:
 
 ```
 {
-  uid: -1,
-  gid: -1,
-  username: 'User',
-  homedir: 'C:\\Users\\User',
-  shell: null
+    uid: -1,
+    gid: -1,
+    username: 'User',
+    homedir: 'C:\\Users\\User',
+    shell: null
 }
 ```
 
